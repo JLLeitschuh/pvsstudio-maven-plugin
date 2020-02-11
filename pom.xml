@@ -62,12 +62,12 @@
         <repository>
             <id>maven-releases</id>
             <name>Mosoblbank Releases Repository</name>
-            <url>http://10.10.23.30:8081/repository/maven-releases/</url>
+            <url>https://10.10.23.30:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
             <name>Mosoblbank Snapshots Repository</name>
-            <url>http://10.10.23.30:8081/repository/maven-snapshots/</url>
+            <url>https://10.10.23.30:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
